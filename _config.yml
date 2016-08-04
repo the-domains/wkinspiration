@@ -1,0 +1,14 @@
+layout_spectrum: 0.9370654323138297
+typography_spectrum: 0.3755716606974602
+color:
+  brandStrength: 0.6870887870900333
+  lightness: 0.30019326438196003
+  saturation: 0.5454444496426731
+  rhythmicContrast: 0.37793438229709864
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: WKInspiration
