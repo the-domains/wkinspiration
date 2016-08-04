@@ -6,9 +6,9 @@ color:
   saturation: 0.5454444496426731
   rhythmicContrast: 0.37793438229709864
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFEFF'
+    - '#32A8AF'
+    - '#6E6E6C'
+    - '#E74F15'
+    - '#7DC7C7'
 name: WKInspiration
